@@ -505,7 +505,7 @@ e = ET.XML('''
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -530,7 +530,7 @@ e = ET.XML('''
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -555,7 +555,7 @@ e = ET.XML('''
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -585,7 +585,7 @@ e = ET.XML('''
           <capability id="vpd" >Vital Product Data</capability>
           <capability id="msi" >Message Signalled Interrupts</capability>
           <capability id="msix" >MSI-X</capability>
-          <capability id="bus_master" >bus mastering</capability>
+          <capability id="bus_main" >bus maining</capability>
           <capability id="cap_list" >PCI capabilities listing</capability>
           <capability id="rom" >extension ROM</capability>
          </capabilities>
@@ -751,7 +751,7 @@ e = ET.XML('''
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -776,7 +776,7 @@ e = ET.XML('''
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -799,7 +799,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -822,7 +822,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -845,7 +845,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -868,7 +868,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -891,7 +891,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -914,7 +914,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -937,7 +937,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -960,7 +960,7 @@ e = ET.XML('''
         <capability id="msix" >MSI-X</capability>
         <capability id="pciexpress" >PCI Express</capability>
         <capability id="pm" >Power Management</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -1019,7 +1019,7 @@ e = ET.XML('''
         <capability id="pm" >Power Management</capability>
         <capability id="msi" >Message Signalled Interrupts</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -1043,7 +1043,7 @@ e = ET.XML('''
         <capability id="pm" >Power Management</capability>
         <capability id="debug" >Debug port</capability>
         <capability id="ehci" >Enhanced Host Controller Interface (USB2)</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -1101,7 +1101,7 @@ e = ET.XML('''
         <capability id="msi" >Message Signalled Interrupts</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -1134,7 +1134,7 @@ e = ET.XML('''
           <setting id="link" value="yes" />
           <setting id="multicast" value="yes" />
           <setting id="port" value="twisted pair" />
-          <setting id="slave" value="yes" />
+          <setting id="subordinate" value="yes" />
           <setting id="speed" value="1Gbit/s" />
          </configuration>
          <capabilities>
@@ -1142,7 +1142,7 @@ e = ET.XML('''
           <capability id="msi" >Message Signalled Interrupts</capability>
           <capability id="msix" >MSI-X</capability>
           <capability id="pciexpress" >PCI Express</capability>
-          <capability id="bus_master" >bus mastering</capability>
+          <capability id="bus_main" >bus maining</capability>
           <capability id="cap_list" >PCI capabilities listing</capability>
           <capability id="ethernet" />
           <capability id="physical" >Physical interface</capability>
@@ -1187,7 +1187,7 @@ e = ET.XML('''
           <setting id="link" value="yes" />
           <setting id="multicast" value="yes" />
           <setting id="port" value="twisted pair" />
-          <setting id="slave" value="yes" />
+          <setting id="subordinate" value="yes" />
           <setting id="speed" value="1Gbit/s" />
          </configuration>
          <capabilities>
@@ -1195,7 +1195,7 @@ e = ET.XML('''
           <capability id="msi" >Message Signalled Interrupts</capability>
           <capability id="msix" >MSI-X</capability>
           <capability id="pciexpress" >PCI Express</capability>
-          <capability id="bus_master" >bus mastering</capability>
+          <capability id="bus_main" >bus maining</capability>
           <capability id="cap_list" >PCI capabilities listing</capability>
           <capability id="ethernet" />
           <capability id="physical" >Physical interface</capability>
@@ -1244,7 +1244,7 @@ e = ET.XML('''
           <capability id="msi" >Message Signalled Interrupts</capability>
           <capability id="msix" >MSI-X</capability>
           <capability id="pciexpress" >PCI Express</capability>
-          <capability id="bus_master" >bus mastering</capability>
+          <capability id="bus_main" >bus maining</capability>
           <capability id="cap_list" >PCI capabilities listing</capability>
           <capability id="ethernet" />
           <capability id="physical" >Physical interface</capability>
@@ -1293,7 +1293,7 @@ e = ET.XML('''
           <capability id="msi" >Message Signalled Interrupts</capability>
           <capability id="msix" >MSI-X</capability>
           <capability id="pciexpress" >PCI Express</capability>
-          <capability id="bus_master" >bus mastering</capability>
+          <capability id="bus_main" >bus maining</capability>
           <capability id="cap_list" >PCI capabilities listing</capability>
           <capability id="ethernet" />
           <capability id="physical" >Physical interface</capability>
@@ -1333,7 +1333,7 @@ e = ET.XML('''
         <capability id="msi" >Message Signalled Interrupts</capability>
         <capability id="pm" >Power Management</capability>
         <capability id="normal_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -1356,7 +1356,7 @@ e = ET.XML('''
           <capability id="msi" >Message Signalled Interrupts</capability>
           <capability id="pciexpress" >PCI Express</capability>
           <capability id="normal_decode" />
-          <capability id="bus_master" >bus mastering</capability>
+          <capability id="bus_main" >bus maining</capability>
           <capability id="cap_list" >PCI capabilities listing</capability>
          </capabilities>
          <resources>
@@ -1378,7 +1378,7 @@ e = ET.XML('''
             <capability id="msi" >Message Signalled Interrupts</capability>
             <capability id="pciexpress" >PCI Express</capability>
             <capability id="normal_decode" />
-            <capability id="bus_master" >bus mastering</capability>
+            <capability id="bus_main" >bus maining</capability>
             <capability id="cap_list" >PCI capabilities listing</capability>
            </capabilities>
            <resources>
@@ -1400,7 +1400,7 @@ e = ET.XML('''
               <capability id="msi" >Message Signalled Interrupts</capability>
               <capability id="pciexpress" >PCI Express</capability>
               <capability id="normal_decode" />
-              <capability id="bus_master" >bus mastering</capability>
+              <capability id="bus_main" >bus maining</capability>
               <capability id="cap_list" >PCI capabilities listing</capability>
              </capabilities>
              <resources>
@@ -1424,7 +1424,7 @@ e = ET.XML('''
                <capabilities>
                 <capability id="pm" >Power Management</capability>
                 <capability id="vga_controller" />
-                <capability id="bus_master" >bus mastering</capability>
+                <capability id="bus_main" >bus maining</capability>
                 <capability id="cap_list" >PCI capabilities listing</capability>
                </capabilities>
                <resources>
@@ -1450,7 +1450,7 @@ e = ET.XML('''
             <capability id="msi" >Message Signalled Interrupts</capability>
             <capability id="pciexpress" >PCI Express</capability>
             <capability id="normal_decode" />
-            <capability id="bus_master" >bus mastering</capability>
+            <capability id="bus_main" >bus maining</capability>
             <capability id="cap_list" >PCI capabilities listing</capability>
            </capabilities>
            <resources>
@@ -1476,7 +1476,7 @@ e = ET.XML('''
         <capability id="pm" >Power Management</capability>
         <capability id="debug" >Debug port</capability>
         <capability id="ehci" >Enhanced Host Controller Interface (USB2)</capability>
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
        <resources>
@@ -1562,7 +1562,7 @@ e = ET.XML('''
        <capabilities>
         <capability id="pci" />
         <capability id="subtractive_decode" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
       </node>
@@ -1580,7 +1580,7 @@ e = ET.XML('''
        </configuration>
        <capabilities>
         <capability id="isa" />
-        <capability id="bus_master" >bus mastering</capability>
+        <capability id="bus_main" >bus maining</capability>
         <capability id="cap_list" >PCI capabilities listing</capability>
        </capabilities>
       </node>
@@ -1622,7 +1622,7 @@ e = ET.XML('''
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
       <capability id="normal_decode" />
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1647,7 +1647,7 @@ e = ET.XML('''
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
       <capability id="normal_decode" />
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1672,7 +1672,7 @@ e = ET.XML('''
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
       <capability id="normal_decode" />
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1697,7 +1697,7 @@ e = ET.XML('''
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
       <capability id="normal_decode" />
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1720,7 +1720,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1743,7 +1743,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1766,7 +1766,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1789,7 +1789,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1812,7 +1812,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1835,7 +1835,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1858,7 +1858,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1881,7 +1881,7 @@ e = ET.XML('''
       <capability id="msix" >MSI-X</capability>
       <capability id="pciexpress" >PCI Express</capability>
       <capability id="pm" >Power Management</capability>
-      <capability id="bus_master" >bus mastering</capability>
+      <capability id="bus_main" >bus maining</capability>
       <capability id="cap_list" >PCI capabilities listing</capability>
      </capabilities>
      <resources>
@@ -1953,7 +1953,7 @@ e = ET.XML('''
     <setting id="firmware" value="2" />
     <setting id="ip" value="172.16.1.42" />
     <setting id="link" value="yes" />
-    <setting id="master" value="yes" />
+    <setting id="main" value="yes" />
     <setting id="multicast" value="yes" />
    </configuration>
    <capabilities>
